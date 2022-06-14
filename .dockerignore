@@ -1,0 +1,5 @@
+.git
+.gitignore
+.tool-versions
+Dockerfile
+node_modules/
